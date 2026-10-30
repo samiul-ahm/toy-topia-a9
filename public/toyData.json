@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "thumbnail": "https://i.postimg.cc/gkXWw97n/barbie.avif",
+    "toyName": "Barbie",
+    "rating": 4.8,
+    "availableQuantity": 10,
+    "price": 19.99,
+    "description": "Barbie continues to inspire generations of dreamers with her timeless charm, elegance, and creativity. This beautifully crafted Barbie doll is dressed in a modern, stylish outfit complete with detailed accessories that make playtime truly magical. Perfect for imaginative storytelling, she encourages kids to express themselves through fashion, role-play, and adventure. Made from high-quality, child-safe materials, Barbie is built to last, ensuring durability and endless hours of fun. Her articulated limbs make posing easy, and her soft, brushable hair invites endless styling possibilities. Whether she’s saving the day as a doctor, walking the runway, or exploring the city, Barbie reminds kids that they can be anything they want to be. This doll is perfect for ages 3 and up and comes beautifully packaged for gifting. Whether for collectors or young fans, Barbie remains a symbol of empowerment, confidence, and creativity. Bring home the classic magic that has inspired millions and start creating stories full of friendship, fashion, and fun."
+  },
+  {
+    "id": 2,
+    "thumbnail": "https://i.postimg.cc/XJYM4tFN/buzz.avif",
+    "toyName": "Buzz Lightyear",
+    "rating": 4.5,
+    "availableQuantity": 15,
+    "price": 25.0,
+    "description": "Get ready to blast off with Buzz Lightyear, the fearless space ranger and Toy Story legend. This detailed action figure features his iconic white and green spacesuit, retractable wings, and authentic design inspired by the original Pixar films. Buzz’s articulated joints make him perfect for imaginative storytelling, action scenes, and heroic poses. Built with premium, child-safe materials, this toy can withstand hours of intergalactic adventure. Kids will love recreating their favorite movie moments or inventing new missions to save the galaxy. Buzz helps promote creativity, teamwork, and problem-solving through play. Parents will appreciate its durable design and easy-to-clean surface, while children adore his bold personality and “to infinity and beyond” spirit. Ideal for kids aged 3 and up, Buzz Lightyear makes an amazing birthday or holiday gift. Whether displayed proudly on a shelf or launched into space adventures in the living room, this beloved character brings courage, friendship, and endless fun to every playtime."
+  },
+  {
+    "id": 3,
+    "thumbnail": "https://i.postimg.cc/rs77GmHd/george.avif",
+    "toyName": "Woody",
+    "rating": 4.9,
+    "availableQuantity": 8,
+    "price": 34.5,
+    "description": "Say howdy to Woody, the loyal cowboy sheriff and heart of the Toy Story gang. This premium figure captures Woody’s signature style — from his cowboy hat and sheriff badge to his plaid shirt and boots. Built from high-quality, durable materials, Woody is designed to last through years of adventures. His poseable arms and legs make him perfect for storytelling, display, or imaginative role-play. Kids can relive favorite movie moments or create brand-new tales of friendship and fun. Woody teaches important lessons about loyalty, teamwork, and bravery while inspiring creativity. Ideal for children aged 3 and up, this figure is safe, easy to clean, and comfortable to hold. Parents appreciate the craftsmanship, while kids love his friendly expression and classic Western charm. Whether he’s leading a rescue, organizing the toys, or riding into the sunset, Woody brings warmth and excitement to every story. A must-have gift for any Toy Story fan or collector."
+  },
+  {
+    "id": 4,
+    "thumbnail": "https://i.postimg.cc/rwXvKDW5/ken.avif",
+    "toyName": "Ken",
+    "rating": 4.7,
+    "availableQuantity": 12,
+    "price": 49.99,
+    "description": "Ken, the ultimate trendsetter and Barbie’s stylish companion, brings a fresh, confident energy to every story. This modern Ken doll is dressed in a sleek, fashion-forward outfit that reflects today’s trends, making him perfect for imaginative play or display. Crafted with precision and made from durable, child-safe materials, Ken is designed to last while maintaining his high-quality look. His poseable joints allow for dynamic play, whether he’s exploring the city, attending a party, or enjoying a casual day out with Barbie. Ideal for children aged 3 and up, this doll encourages creativity, storytelling, and positive self-expression. Parents will appreciate the attention to detail, realistic design, and durable construction. Ken is more than just a toy — he represents confidence, friendship, and individuality. Whether you’re expanding your Barbie collection or looking for the perfect gift, Ken adds endless play possibilities and charm to every adventure."
+  },
+  {
+    "id": 5,
+    "thumbnail": "https://i.postimg.cc/GpbVx6X4/nit-Doll.avif",
+    "toyName": "nitDoll",
+    "rating": 4.6,
+    "availableQuantity": 20,
+    "price": 15.0,
+    "description": "The nitDoll is a beautifully handcrafted knitted doll that blends comfort, creativity, and timeless charm. Made from soft, hypoallergenic yarn, it’s perfect for children of all ages to cuddle, love, and care for. Each nitDoll is designed with delicate stitching and an adorable embroidered face that brings warmth and personality to playtime. Its lightweight, portable size makes it an ideal companion for bedtime, travel, or everyday adventures. Parents appreciate its eco-friendly materials and easy-to-clean surface, while kids love its soft texture and friendly design. nitDoll promotes empathy, nurturing, and imaginative play — helping children develop emotional intelligence while having fun. Perfect as a birthday, baby shower, or holiday gift, it’s a keepsake-quality toy that provides lasting comfort. Whether displayed on a nursery shelf or tucked under a little arm for sleep, nitDoll brings love, calm, and creativity to every home."
+  },
+  {
+    "id": 6,
+    "thumbnail": "https://i.postimg.cc/j5F1K2tZ/ted.avif",
+    "toyName": "Tedd",
+    "rating": 4.8,
+    "availableQuantity": 5,
+    "price": 59.99,
+    "description": "Tedd is the ultimate plush teddy bear designed for hugs, comfort, and lifelong companionship. Crafted from ultra-soft materials, this premium teddy bear offers luxurious comfort and durability. With carefully stitched details and a perfectly balanced design, Tedd feels wonderful to hold and makes the perfect bedtime or travel buddy. His friendly face and soft fur make him an instant favorite for children and adults alike. Parents will appreciate his hypoallergenic filling and easy-to-clean surface, ensuring safety and hygiene for everyday play. Ideal for birthdays, holidays, or special occasions, Tedd makes a thoughtful and heartwarming gift. More than just a toy, he provides emotional comfort, helping children feel calm and secure. Whether displayed in a nursery, gifted to a loved one, or kept as a cherished keepsake, Tedd’s timeless appeal and cuddly design make him a classic that never goes out of style."
+  }
+]

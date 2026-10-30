@@ -1,0 +1,6 @@
+.active {
+    text-decoration: underline;
+    color: hotpink;
+    text-underline-offset: 4px;
+    text-decoration-thickness: 3px;
+}
